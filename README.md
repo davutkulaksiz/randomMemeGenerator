@@ -14,6 +14,8 @@ This is a fun project I made as part of <a href="https://twitter.com/z_gollwitze
 
 <img src="/visual4.png"></img>
 
+#### You can use it and have a little fun <a href="https://davutkulaksiz.github.io/memegenerator/">here</a> -<em>for like 10 seconds</em>-
+
 
 
 ## Made by
